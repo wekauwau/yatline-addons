@@ -1,4 +1,5 @@
 # yatline-addons
+
 Awesome list of repositories for Yatline add-ons.
 
 > [!NOTE]
@@ -7,9 +8,12 @@ Awesome list of repositories for Yatline add-ons.
 
 ## Add-ons
 
+- [yatline-created-time](https://github.com/wekauwau/yatline-created-time.yazi)
 - [yatline-githead](https://github.com/imsi32/yatline-githead.yazi)
+- [yatline-modified-time](https://github.com/wekauwau/yatline-modified-time.yazi)
 - [yatline-symlink](https://github.com/lpanebr/yazi-plugins/tree/main/yatline-symlink.yazi).
 
 ## Contributing
+
 You can create either pull request or issue to add your add-on.  
 To create your own add-on see [Add-ons](https://github.com/imsi32/yatline.yazi/wiki/Add-ons).
