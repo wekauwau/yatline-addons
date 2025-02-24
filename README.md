@@ -12,6 +12,7 @@ Awesome list of repositories for Yatline add-ons.
 - [yatline-githead](https://github.com/imsi32/yatline-githead.yazi)
 - [yatline-modified-time](https://github.com/wekauwau/yatline-modified-time.yazi)
 - [yatline-symlink](https://github.com/lpanebr/yazi-plugins/tree/main/yatline-symlink.yazi).
+- [yatline-tab-path](https://github.com/blackdaemon/yatline-tab-path.yazi)
 
 ## Contributing
 
